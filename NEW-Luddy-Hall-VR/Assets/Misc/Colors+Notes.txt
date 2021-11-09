@@ -1,0 +1,8 @@
+colors
+
+blue: 2196F3
+pink: E91E63
+yellow: FFEB3B
+
+on start set scale to 0.03279
+pos to -35.76 44.21 -14.89

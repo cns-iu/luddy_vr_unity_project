@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 63f4ff65f550a9b43b1060e7015b21f0
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_6
+    second: {fileID: 2100000, guid: 9c3ed758eaf7c5f49a1b745eab748e6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans
+    second: {fileID: 2100000, guid: d893e12e394e2e4448c8c78e14a72c14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_10
+    second: {fileID: 2100000, guid: 0c6b315e7894cf7439508dc63fa79eba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_11
+    second: {fileID: 2100000, guid: 2a67d97af18fd5245804ec7597b95456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_12
+    second: {fileID: 2100000, guid: f7ff91d9aba95ab45a49382f6c02e3b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_13
+    second: {fileID: 2100000, guid: 6b3e8892bfacb95419925f7f936635c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_14
+    second: {fileID: 2100000, guid: 1e05923b041046240af6e50f79d47b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_15
+    second: {fileID: 2100000, guid: 7792bb8773e7e58479e527cfbaace368, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_16
+    second: {fileID: 2100000, guid: cb8568bf63bb6a245933ef59169bebd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_17
+    second: {fileID: 2100000, guid: 3e8cfabb6ef031f4fb20d2f10096710b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_18
+    second: {fileID: 2100000, guid: dd681353e00015c499377f6d4661035c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_19
+    second: {fileID: 2100000, guid: d54d98ca550ee5e41ba243a5a72ad528, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_2
+    second: {fileID: 2100000, guid: 5af102b3c106da448a928896504d70c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_20
+    second: {fileID: 2100000, guid: 8beb938dd549cc944a82693823cee4da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_21
+    second: {fileID: 2100000, guid: f3b7acb00f5e70e468edc6cc0a78918b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_22
+    second: {fileID: 2100000, guid: 53ffb1ca4755c4f43b07b75435b533ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_23
+    second: {fileID: 2100000, guid: da77d1265aa18624a993e163252ae571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_24
+    second: {fileID: 2100000, guid: 49d72a4b596cbbb428660fb7ff1f7f9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_25
+    second: {fileID: 2100000, guid: c8d817b7204b6194da47c38c48d06b75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_26
+    second: {fileID: 2100000, guid: 6a141fa056cb3d04e906be3a96ce46b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_27
+    second: {fileID: 2100000, guid: 4501dcddc3fd87c458d5a3bcd42668b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_28
+    second: {fileID: 2100000, guid: d9547def9c67b874999ce25fdeedecba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_29
+    second: {fileID: 2100000, guid: 072eef813a8afe441be2a3a1a0bc8702, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_3
+    second: {fileID: 2100000, guid: 00a3855a477f02f48a786de22f329e91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_30
+    second: {fileID: 2100000, guid: 341673b73cce2a042accb5d5e6191939, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_31
+    second: {fileID: 2100000, guid: 2009a3d05cef54142b500c6b4edde410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_32
+    second: {fileID: 2100000, guid: 4b1a8a10b9dcd49439cad9d79a4d5657, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_33
+    second: {fileID: 2100000, guid: af85284dbaa492c4c949d126e4f5387a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_34
+    second: {fileID: 2100000, guid: 9ee5efa22d12e0c4f96c0dbd0c245443, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_35
+    second: {fileID: 2100000, guid: fe50aa477319d57498f6dcc69ce311b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_36
+    second: {fileID: 2100000, guid: 985dcd89bfbb5a6488f0f6078ec7bb5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_37
+    second: {fileID: 2100000, guid: c29fabc2e1d6ce14999fb5438e3cab04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_38
+    second: {fileID: 2100000, guid: c2948b751af72914b8078e5f2ac6d0f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_39
+    second: {fileID: 2100000, guid: 26a64f388442a2e4aabc2bf0a16b3fde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_4
+    second: {fileID: 2100000, guid: 66c15ddedd897e84c826508808cc595c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_40
+    second: {fileID: 2100000, guid: 90e68fb6aa9cfa04d966442961c7ad85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_41
+    second: {fileID: 2100000, guid: cb3cea8b07135174c9b61a446c5ec096, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_42
+    second: {fileID: 2100000, guid: 7e398f505960b984abc319a725e2ae8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_43
+    second: {fileID: 2100000, guid: 868f16beee0c4dd4c9f30ebb6ccbcdb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_44
+    second: {fileID: 2100000, guid: c7994261a18c7534eaad93c7d4c4d3f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_45
+    second: {fileID: 2100000, guid: 40b8f96b42a63ad40bd875357d142d53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_46
+    second: {fileID: 2100000, guid: 08dfc23f301b43445b40dd1a9ec2c108, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_47
+    second: {fileID: 2100000, guid: 63a76a9db105f5a42acfa19e39bbb5d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_48
+    second: {fileID: 2100000, guid: c75d88ee66436bb4cb182771dace088f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_49
+    second: {fileID: 2100000, guid: fae0df8c4bb7ce14cacfa31691e239ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_5
+    second: {fileID: 2100000, guid: 73f58b6bd46697d46a1d0a11b774be82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_50
+    second: {fileID: 2100000, guid: eda9de39f82927640961db13c57e8217, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_51
+    second: {fileID: 2100000, guid: e8c20e6a723debe42a919b9641272bb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_52
+    second: {fileID: 2100000, guid: 76c18e1f5ec1fdd41ba58c504c990004, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_53
+    second: {fileID: 2100000, guid: 6a5b0a83f47b074479dbe20440769c85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_54
+    second: {fileID: 2100000, guid: 88ab34c4a40354d47a6eca58a85c5f60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_55
+    second: {fileID: 2100000, guid: 61677ac0a8068d24492186d5bb26ee28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_56
+    second: {fileID: 2100000, guid: 2b4cea9763a966d4cb14867077ce8549, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_57
+    second: {fileID: 2100000, guid: 5ab38d52dc1330e48b3b45ca3a835ca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_6
+    second: {fileID: 2100000, guid: a8a2ab7c0346cc14399c3ae754585785, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_7
+    second: {fileID: 2100000, guid: c1bf4ce84bae7a7428891bd72b91d963, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_8
+    second: {fileID: 2100000, guid: 9ed23e4a064d80e4d8683331408554d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trans_9
+    second: {fileID: 2100000, guid: 552dc68601c2b2748aeafc635a056d82, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.newluddyhallvr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\BoxSyncAlex\\Box Sync\\PhD\\Bueckle\\NEW-Luddy-Hall-VR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "NEW-Luddy-Hall-VR [Testing]"
+        }
+      }
+    }
+  ]
+}
